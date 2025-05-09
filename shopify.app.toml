@@ -3,7 +3,7 @@
 client_id = "b0413c05ff1d80b113668ff5bb203467"
 name = "connecttosilverstock"
 handle = "connecttosilverstock"
-application_url = "https://grams-upgrading-speak-deemed.trycloudflare.com"
+application_url = "https://applying-fantastic-flowers-organization.trycloudflare.com"
 embedded = true
 
 [build]
@@ -65,9 +65,9 @@ read_locales
 
 [auth]
 redirect_urls = [
-  "https://grams-upgrading-speak-deemed.trycloudflare.com/auth/callback",
-  "https://grams-upgrading-speak-deemed.trycloudflare.com/auth/shopify/callback",
-  "https://grams-upgrading-speak-deemed.trycloudflare.com/api/auth/callback"
+  "https://applying-fantastic-flowers-organization.trycloudflare.com/auth/callback",
+  "https://applying-fantastic-flowers-organization.trycloudflare.com/auth/shopify/callback",
+  "https://applying-fantastic-flowers-organization.trycloudflare.com/api/auth/callback"
 ]
 
 [pos]
