@@ -1,9 +1,9 @@
 {
   "name": "connecttosilverstock",
   "private": true,
-"scripts": {
-    "build": "remix vite:build && prisma generate",
-    "dev": "shopify app dev",
+    "scripts": {
+    "postinstall": "prisma generate && prisma migrate deploy",
+    "build": "prisma generate && remix vite:build"    "dev": "shopify app dev",
     "config:link": "shopify app config link",
     "generate": "shopify app generate",
     "deploy": "shopify app deploy",
