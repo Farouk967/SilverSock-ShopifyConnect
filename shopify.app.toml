@@ -3,7 +3,7 @@
 client_id = "b0413c05ff1d80b113668ff5bb203467"
 name = "connecttosilverstock"
 handle = "connecttosilverstock"
-application_url = "https://remix-git-main-farouk967s-projects.vercel.app/"
+application_url = "https://stick-enclosure-cross-hose.trycloudflare.com"
 embedded = true
 
 [build]
@@ -65,9 +65,9 @@ read_locales
 
 [auth]
 redirect_urls = [
-  "https://governmental-indicate-techniques-judge.trycloudflare.com/auth/callback",
-  "https://governmental-indicate-techniques-judge.trycloudflare.com/auth/shopify/callback",
-  "https://governmental-indicate-techniques-judge.trycloudflare.com/api/auth/callback"
+  "https://stick-enclosure-cross-hose.trycloudflare.com/auth/callback",
+  "https://stick-enclosure-cross-hose.trycloudflare.com/auth/shopify/callback",
+  "https://stick-enclosure-cross-hose.trycloudflare.com/api/auth/callback"
 ]
 
 [pos]
