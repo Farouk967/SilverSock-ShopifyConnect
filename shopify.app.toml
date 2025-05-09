@@ -3,7 +3,7 @@
 client_id = "b0413c05ff1d80b113668ff5bb203467"
 name = "connecttosilverstock"
 handle = "connecttosilverstock"
-application_url = "https://applying-fantastic-flowers-organization.trycloudflare.com"
+application_url = "https://remix-git-main-farouk967s-projects.vercel.app/"
 embedded = true
 
 [build]
@@ -65,9 +65,9 @@ read_locales
 
 [auth]
 redirect_urls = [
-  "https://applying-fantastic-flowers-organization.trycloudflare.com/auth/callback",
-  "https://applying-fantastic-flowers-organization.trycloudflare.com/auth/shopify/callback",
-  "https://applying-fantastic-flowers-organization.trycloudflare.com/api/auth/callback"
+  "https://governmental-indicate-techniques-judge.trycloudflare.com/auth/callback",
+  "https://governmental-indicate-techniques-judge.trycloudflare.com/auth/shopify/callback",
+  "https://governmental-indicate-techniques-judge.trycloudflare.com/api/auth/callback"
 ]
 
 [pos]
