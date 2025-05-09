@@ -1,12 +1,12 @@
 {
   "name": "connecttosilverstock",
   "private": true,
- "scripts": {
+"scripts": {
   "build": "prisma generate && remix vite:build",
   "dev": "shopify app dev",
   "config:link": "shopify app config link",
   "generate": "shopify app generate",
-  "deploy": "prisma migrate deploy --schema=./prisma/schema.prisma && shopify app deploy",
+  "deploy": "prisma generate && prisma migrate deploy --schema=./prisma/schema.prisma && shopify app deploy",
   "config:use": "shopify app config use",
   "env": "shopify app env",
   "start": "remix-serve ./build/server/index.js",
