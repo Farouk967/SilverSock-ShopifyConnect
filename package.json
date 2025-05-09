@@ -2,7 +2,7 @@
   "name": "connecttosilverstock",
   "private": true,
 "scripts": {
-  "deploy": "prisma generate && prisma migrate deploy --schema=./prisma/schema.prisma && shopify app deploy",
+  "deploy": "prisma generate && prisma migrate deploy --schema=./prisma/schema.prisma && remix vite:build",
   "dev": "shopify app dev",
   "config:link": "shopify app config link",
   "generate": "shopify app generate",
